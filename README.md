@@ -51,5 +51,8 @@
 * Önceden kullanmak için kaydedilen değişiklikleri yeniden uygulamak: 
 `git stash apply`
 
+![gitkomutları](https://user-images.githubusercontent.com/34026929/185673542-92f00c51-e42c-454a-9a64-35bdd1148fd2.png)
+
+
 ## Author
 * **Rabia Uğurlu** - [rabiaugurlu](https://github.com/rabiaugurlu)
