@@ -5,7 +5,7 @@
 `git status`
 * Hazırlama alanına(staging area) bir dosya eklemek:
 `git add <file>`
-* Tüm dosya değişikliklerini başlangıç alanına(staging area) eklemek:
+* Tüm dosya değişikliklerini hazırlama alanına(staging area) eklemek:
 `git add .`
 * Dizinden ve çalışma dizininden bir dosyayı kaldırmak: 
 `git rm <file>`
